@@ -33,6 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-font-awesome-sass
+  - jekyll-seo-tag
 
 font-awesome:
   assets: true

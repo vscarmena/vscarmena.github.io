@@ -2,7 +2,7 @@
 layout: post
 title:  "Hola Mundo"
 date:   2018-02-28T00:00:00Z
-reading_time: 3
+reading: 3
 ---
 
 ![Víctor Sánchez Carmena. PING?]({{ site.url }}/assets/images/victor_sanchez_carmena_dab.png){:.responsive}
