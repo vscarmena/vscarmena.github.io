@@ -2,7 +2,6 @@
 layout: post
 title:  "Hola Mundo"
 date:   2018-02-28T00:00:00Z
-categories:
 reading_time: 3
 ---
 

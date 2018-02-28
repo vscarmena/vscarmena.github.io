@@ -32,8 +32,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
-gems:
   - jekyll-font-awesome-sass
 
 font-awesome:
