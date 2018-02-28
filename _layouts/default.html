@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "es" }}">
+  {% include head.html %}
+  <body>
+    <div class="sidebar {% if page.name != 'index.md' %} page {% endif %}">
+      {% include header.html %}
+      {% include footer.html %}
+    </div>
+    <main aria-label="Content" id="{% if page.name == 'index.md' %}blog{% endif %}">
+      {{ content }}
+    </main>
+  </body>
+</html>
