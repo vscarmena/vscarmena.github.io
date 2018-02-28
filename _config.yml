@@ -18,7 +18,7 @@ description: Formador/Consultor tecnológico
 author: Víctor Sánchez Carmena
 email: hola@vscarmena.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.vscarmena.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://vscarmena.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vscarmena
 github_username:  vscarmena
 linkedin_username:  vscarmena
