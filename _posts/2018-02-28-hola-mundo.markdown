@@ -3,9 +3,11 @@ layout: post
 title:  "Hola Mundo"
 date:   2018-02-28T00:00:00Z
 reading: 3
+image_path: "/assets/images/victor_sanchez_carmena_dab.png"
+image_alt: "Víctor Sánchez Carmena. DAB"
 ---
 
-![Víctor Sánchez Carmena. PING?]({{ site.url }}/assets/images/victor_sanchez_carmena_dab.png){:.responsive}
+![{{ page.image_alt}}]({{ site.url }}{{ page.image_path }}){:.responsive}
 
 Pues debe ser cuestión de la edad, cuestión del poco tiempo personal que deja esto de la paternidad, o bien, cuestión de que a veces **cuanto más complicadas son las circunstancias, mejor es la disposición para conseguir alcanzar determinados objetivos**.
 
