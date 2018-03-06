@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A propósito del T3chFest 2018"
+title:  "A propósito de T3chFest 2018"
 date:   2018-03-06T09:00:00Z
 reading: 4
 image: "/assets/images/t3chfest_cover.jpg"
