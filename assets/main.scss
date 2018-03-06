@@ -274,7 +274,7 @@ li {
 .post-list {
   padding: 0;
   margin: 0;
-  h2 a, .read-more {
+  a, .read-more {
     font-family:  $primary-font;
     color:  $brand-color;
     &:hover {
@@ -367,10 +367,31 @@ footer {
 
 /* IMAGES */
 
+.fa-pull-right {
+  padding-left: 1.5em;
+}
+
+.fa-pull-left {
+  padding-right: 1.5em;
+}
+
 .responsive {
   max-width: 100%;
   height: auto;
 }
+
+.fa-pull-right, .fa-pull-left {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  @include breakpoint(small) {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding: 0;
+  }
+}
+
 .center {
   display: block;
   margin-left: auto;
