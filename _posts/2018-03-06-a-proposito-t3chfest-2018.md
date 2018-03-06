@@ -3,10 +3,10 @@ layout: post
 title:  "A propósito del T3chFest 2018"
 date:   2018-03-06T09:00:00Z
 reading: 4
-image: "https://t3chfest.uc3m.es/2018/static/assets/media/social/t3f2018-social.jpg"
+image: "/assets/images/t3chfest_cover.jpg"
 ---
 
-![TechFest ]({{ page.image }}){:.responsive}
+![TechFest ]({{ site.url }}{{ page.image }}){:.responsive}
 
 Este año tenía una cita marcada en el calendario para acudir al [T3chFest](https://t3chfest.uc3m.es/2018/){:target="_blank"}. Uno de esos [eventos que no te puedes perder](https://www.genbetadev.com/formacion/los-15-eventos-para-desarrolladores-en-espana-que-no-te-puedes-perder-en-2018){:target="_blank"}, y al que fui con un compañero especial de viaje: mi hijo pequeño de 2 años. Cuestión de conciliación y cuestión de que el **T3chFest para mi no es un evento más**. Gran parte de mi familia reside en Madrid y estudié en la universidad que acoge este evento, la [Universidad Carlos III de Madrid](https://www.uc3m.es/Inicio){:target="_blank"}. Esto es, aproveché para tomar algo con algún profesor, comer con algún excompañero de clase, pasar tiempo con la familia y recoger el título. Si, 10 años después.
 
