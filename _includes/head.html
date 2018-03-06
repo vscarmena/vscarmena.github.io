@@ -8,7 +8,7 @@
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
   <meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
-  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image_path }}">
+  <meta name="twitter:image:src" content="{{ site.url }}{{ page.image }}">
   {% seo %}
   <link href="https://use.fontawesome.com/releases/v5.0.7/css/all.css" rel="stylesheet">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
