@@ -61,7 +61,7 @@ body {
 }
 
 main {
-  padding: 1em;
+  padding: 1em 1em 2em 1em;
   min-height: 100%;
   @include breakpoint(large) {
     max-width: 67rem;
@@ -264,7 +264,7 @@ header ul {
   padding: 0;
 }
 
-li {
+nav li, .post-list li{
   list-style: none;
   padding: 0.4em;
 }
@@ -327,6 +327,15 @@ article a {
     color: darken($brand-color,15%);
     text-decoration: underline;
   }
+}
+
+figcaption {
+  font-size: 0.7em;
+  margin-top: -1em;
+}
+
+figure {
+  margin: auto;
 }
 
 /* FOOTER */
