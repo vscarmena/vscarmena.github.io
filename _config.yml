@@ -18,7 +18,7 @@ description: Padre. Formador y consultor tecnológico con más de 10 años de ex
 author: Víctor S. Carmena
 email: hola@vscarmena.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://vscarmena.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://vscarmena.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vscarmena
 github_username:  vscarmena
 linkedin_username:  vscarmena
