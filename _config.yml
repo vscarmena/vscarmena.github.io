@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Víctor Sánchez Carmena
-description: Formador/Consultor tecnológico
-author: Víctor Sánchez Carmena
+title: Víctor S. Carmena
+description: Padre. Formador y consultor tecnológico con más de 10 años de experiencia en desarrollo de proyectos de software.
+author: Víctor S. Carmena
 email: hola@vscarmena.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://vscarmena.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -36,15 +36,3 @@ plugins:
 
 font-awesome:
   assets: true
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

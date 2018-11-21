@@ -1,14 +1,10 @@
 <header>
 <h1 class="logo">
   <a href="{{ site.url | absolute }}">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-      <path class="path{% if page.name == 'index.md' %} home {% endif %}" d="m57.708 34.965c-0.139-0.24-0.396 0.161-0.675 0.161h-49.917c-0.278 0-0.534-0.401-0.673-0.161-0.139 0.239-0.139 0.262 0 0.502l24.977 43.124c0.138 0.242 0.396 0.321 0.674 0.321s0.535-0.182 0.673-0.425l24.94-43.002c0.14-0.241 0.14-0.28 1e-3 -0.52z"/>
-      <path class="path{% if page.name == 'index.md' %} home {% endif %}" d="m156.4 35.126h-49.918c-0.584 0-0.771-0.239-0.909 0l-49.41 84.718c-0.139 0.24-0.14 0.363-1e-3 0.604l24.921 43.936c0.64 0.979 0.64 0.984 1.349-0.078l74.643-128.78c0.214-0.473 0.023-0.401-0.675-0.401z"/>
-      <path class="path{% if page.name == 'index.md' %} home {% endif %}" d="m171.33 120.34c-12.315 0-22.335 10.019-22.335 22.335 0 12.312 10.02 22.332 22.335 22.332 12.313 0 22.332-10.02 22.332-22.332 0-12.317-10.018-22.335-22.332-22.335z"/>
-    </svg>
+    <img src="{{site.url}}/assets/images/victor_sanchez_carmena.jpg" alt="Víctor Sánchez Carmena">
+    <p class="site-title">{{ site.title }}</p>
   </a>
-  <p class="site-title">{{ site.title }}</p>
 </h1>
-  <p class="quick-descripcion">{{ site.description }}</p>
-  {% include nav.html %}
+  <p class="quick-descripcion">{{ site.description }} <a href="{{ site.url }}/about">Más sobre mí.</a></p>
+  <hr>
 </header>
