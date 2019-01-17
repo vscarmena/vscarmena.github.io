@@ -1,10 +1,16 @@
 <header>
-<h1 class="logo">
-  <a href="{{ site.url | absolute }}">
-    <img src="{{site.url}}/assets/images/victor_sanchez_carmena.jpg" alt="Víctor Sánchez Carmena">
-    <p class="site-title">{{ site.title }}</p>
-  </a>
-</h1>
-  <p class="quick-descripcion">{{ site.description }} <a href="{{ site.url }}/about">Más sobre mí.</a></p>
-  <hr>
+<nav>
+  <ul>
+    <li class="logo">
+      <a href="{{ site.url | absolute }}">
+        <img src="{{site.url}}/assets/images/victor_sanchez_carmena.jpg" alt="Víctor Sánchez Carmena">
+        <p class="site-author">{{ site.title }}</p>
+      </a>
+    <li>
+    <li>
+      <p class="site-descripcion">{{ site.description }} <a href="{{ site.url }}/about">Más sobre mí.</a></p>
+    </li>
+  <ul>
+</nav>
+<hr>
 </header>

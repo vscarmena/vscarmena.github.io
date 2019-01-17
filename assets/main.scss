@@ -103,24 +103,33 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
-header h1 {
+header nav ul {
+  padding: 0;
+}
+
+header .logo {
   margin-bottom: 0.3em;
   font-size: 1.4em;
   margin-top: 0.3em;
 }
 
+h1 {
+  font-size: 1.3em;
+  text-transform: uppercase;
+}
+
 h2 {
   font-family: $primary-font;
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-weight: 100;
-  text-transform: uppercase;
   color: $base-color;
   margin-bottom: 0.5em;
   display: inline-block;
   padding-bottom: 0.2em;
 }
 h3 {
-  font-size: 1.2em;
+  font-size: 1.1em;
+  text-transform: uppercase;
 }
 
 /* SIDEBAR */
@@ -162,36 +171,36 @@ h3 {
     min-height: 20%;
     padding-bottom: 1rem;
   }
-  .site-title {
+  .site-author {
+    font-family: $primary-font;
     margin: 0;
   }
-  &.page {
+  &.no-home {
     @include breakpoint(small) {
       padding-bottom: 0;
       padding-top: 0;
       min-height: 0%;
-      .logo a > img, .quick-descripcion, hr, nav, footer {
+      .logo a > img, .site-descripcion, hr, nav, footer {
         display: none;
       }
       .logo {
         margin: 0;
       }
-      .logo a .site-title {
+      .logo a .site-author {
         padding: 1em;
       }
     }
   }
 }
 
-.quick-descripcion {
+.site-descripcion {
   color: $secondary-color;
   font-family: $secondary-font;
-  margin-top: 0;
   margin-bottom: 1.5em;
-  padding: 0 0.8em;
+  padding: 0 0.9em;
 }
 
-.quick-descripcion a{
+.site-descripcion a{
   font-family: $secondary-font;
   color: $brand-color;
   &:hover {
@@ -210,7 +219,7 @@ hr {
   margin-bottom: 1.5em;
 }
 
-h2 + hr {
+h1 + hr {
   background-color: $light-color;
   width: 50px;
   margin-bottom: 1em;
