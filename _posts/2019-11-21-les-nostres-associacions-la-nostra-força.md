@@ -15,7 +15,7 @@ La setmana passada em van demanar que parlés d’una associació al curs de cat
 ![Associació Techne Fòrum]({{site.url}}/assets/images/text_associacio_techne_forum.jpg){:.responsive .fa-pull-right}
 <figcaption>Exercici: Les nostres associacions, la nostra força</figcaption></figure>
 
-L'exercici que havia de fer dona el títol al nom d'aquest post i correspon a les activitats del curs del [nivell S2](https://www.cpnl.cat/cursos-catala/cursos-generals.html#suficiencia) de català. Aquest exercici, estava dividit en dos parts: En primer lloc, redactar un text explicatiu per descriure en què consisteix l'associació, qui forma part, els seus objectius, accions, on poder trobar-la o les dades de contacte, entre altres. I en segon lloc, fer-ne una presentació de 3 minuts amb l'ajuda d'un petit guió realitzat per nosaltres que ens facilités la sempre difícil tasca de comunicar.
+L'exercici que havia de fer dona el títol al nom d'aquest post i correspon a les activitats del curs del [nivell S2](https://www.cpnl.cat/cursos-catala/cursos-generals.html#suficiencia) de català. Aquest exercici, estava dividit en dos parts: En primer lloc, redactar un text explicatiu per descriure en què consisteix l'associació, qui forma part, els seus objectius, accions, on poder trobar-la o les dades de contacte, entre altres. I en segon lloc, fer-ne una presentació de 3 minuts amb l'ajuda d'un petit guió realitzat per nosaltres que ens facilités la sempre difícil tasca de comunicar i parlar en públic.
 
 El **text explicatiu transcrit i corregit** per la meva professora es aquest:
 
