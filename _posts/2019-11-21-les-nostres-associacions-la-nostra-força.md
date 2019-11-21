@@ -8,7 +8,7 @@ image: "/assets/images/techne_forum.jpg"
 
 ![Techne Fòrum ]({{ site.url }}{{ page.image }}){:.responsive}
 
-La setmana passada em van demanar que parli d’una associació al curs de català que estic fent al [Consorci per a la Normalització Lingüística de Reus](https://www.cpnl.cat/xarxa/cnlreus/) i, evidentment, havia de parlar de l'associació de la qual formo part com organitzador: [Techne Fòrum](https://techneforum.com/). A més a més, em va semblar una ocasió fantàstica per aprofitar i donar una mica de força al blog què feia temps que no tocava.
+La setmana passada em van demanar que parlés d’una associació al curs de català que estic fent al [Consorci per a la Normalització Lingüística de Reus](https://www.cpnl.cat/xarxa/cnlreus/) i, evidentment, havia de parlar de l'associació de la qual formo part com organitzador: [Techne Fòrum](https://techneforum.com/). A més a més, em va semblar una ocasió fantàstica per aprofitar i donar una mica de força al blog què feia temps que no tocava.
 
 
 <figure markdown="1" class="responsive fa-pull-right">
