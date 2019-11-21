@@ -300,10 +300,18 @@ article a {
 figcaption {
   font-size: 0.7em;
   margin-top: -1em;
+  text-align: center;
 }
 
 figure {
   margin: auto;
+}
+
+blockquote {
+  border-left: 0.3em solid $lighter-color;
+  padding: 0.2em 1.5em;
+  margin: 0;
+  color: lighten($base-color, 30%);;
 }
 
 /* FOOTER */
