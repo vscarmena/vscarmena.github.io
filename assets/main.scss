@@ -55,8 +55,8 @@ main {
   padding: 1em 2em 2em 2em;
   min-height: 100%;
   @include breakpoint(large) {
-    max-width: 55rem;
-    margin-left: 24rem;
+    max-width: 45rem;
+    margin-left: 30rem;
   }
   @include breakpoint(small) {
     padding: 1em;
@@ -221,7 +221,7 @@ hr {
 h1 + hr {
   background-color: $light-color;
   width: 50px;
-  margin-bottom: 1em;
+  margin-bottom: 1.6em;
 }
 
 .main header {
