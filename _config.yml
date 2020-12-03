@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Víctor S. Carmena
-description: Padre. Formador y consultor tecnológico con más de 10 años de experiencia en desarrollo de proyectos de software.
+description: Padre. Ingeniero de software senior. Profesor. Co-organizador de Techne Forum. Mezcla de manchego, madrileño y catalán
 author: Víctor S. Carmena
 email: hola@vscarmena.com
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -36,3 +36,4 @@ plugins:
 
 font-awesome:
   assets: true
+unpublished: true
